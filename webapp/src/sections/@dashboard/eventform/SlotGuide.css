@@ -1,0 +1,8 @@
+.normal {
+    border-color: rgb(255, 255, 255);
+}
+
+.highlight{
+    border-color: rgb(0, 242, 255);
+    background-color: rgba(111, 111, 111, 0.632);
+}

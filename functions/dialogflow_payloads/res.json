@@ -1,0 +1,47 @@
+{
+    "responseId": "ca09d099-f343-43e2-8dcb-e08a910f94e6-4ecabd93",
+    "queryResult": {
+        "queryText": "ไม่",
+        "action": "smalltalk.confirmation.no",
+        "parameters": {},
+        "allRequiredParamsPresent": true,
+        "fulfillmentMessages": [{
+            "text": {
+                "text": [""]
+            }
+        }],
+        "outputContexts": [{
+            "name": "projects/onep-9f0ce/agent/sessions/09a0e091-bb35-394d-9ef3-1a26614f5927/contexts/__system_counters__",
+            "parameters": {
+                "no-input": 0,
+                "no-match": 0
+            }
+        }],
+        "intent": {
+            "name": "projects/onep-9f0ce/agent/intents/bad82ad9-bb97-4ac7-ac2c-0d6c6f1c3f48",
+            "displayName": "smalltalk.confirmation.no"
+        },
+        "intentDetectionConfidence": 1,
+        "languageCode": "th"
+    },
+    "originalDetectIntentRequest": {
+        "source": "line",
+        "payload": {
+            "data": {
+                "type": "message",
+                "replyToken": "26ba250fb73747eb852eeb6bb96f344c",
+                "source": {
+                    "type": "user",
+                    "userId": "U7bf5691b4190370d45d963765981e391"
+                },
+                "message": {
+                    "id": "16802338716294",
+                    "text": "ไม่",
+                    "type": "text"
+                },
+                "timestamp": "1663474126399"
+            }
+        }
+    },
+    "session": "projects/onep-9f0ce/agent/sessions/09a0e091-bb35-394d-9ef3-1a26614f5927"
+}
